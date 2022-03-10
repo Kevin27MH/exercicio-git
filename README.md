@@ -1,2 +1,2 @@
 # exercicio-git
-Crinado site para treinar Git
+Criando site para treinar Git
